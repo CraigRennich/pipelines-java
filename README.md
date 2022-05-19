@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/craigrei/Tailwind%20Traders/_apis/build/status/Test%20Java?branchName=master)](https://dev.azure.com/craigrei/Tailwind%20Traders/_build/latest?definitionId=12&branchName=master)
 
 # Contributing
 
